@@ -1,4 +1,4 @@
-# Analysis of outer Colombo suburbs concerning land prices and density of social places
+# Analysis of outer suburbs in Colombo concerning land prices and density of social places
 
 <br/>
 
@@ -30,7 +30,7 @@ However (CMR) covers only about 6 per cent of the country’s total land area [2
 <div style="text-align: justify;line-height:2">
     <ul>
         <li>
-            List of outer Colombo suburbs can be found on Wikipedia article: Colombo [4]. For this study, inner Colombo city suburbs and capital zone suburbs are not used since they are more suitable for business purposes rather than residential purpose.
+            List of outer suburbs in Colombo can be found on Wikipedia article: Colombo [4]. For this study, inner Colombo city suburbs and capital zone suburbs are not used since they are more suitable for business purposes rather than residential purpose.
         </li>
         <li>
             Geo-Coordinates of each suburb can be retrieved from ArcGIS geocode library for Python [5].
@@ -53,7 +53,7 @@ However (CMR) covers only about 6 per cent of the country’s total land area [2
 
    1. <a href='https://en.wikipedia.org/wiki/Colombo'>Colombo</a>
    2. <a href='https://www.worldbank.org/en/country/srilanka/overview#3'>Overview of Sri Lanka by World Bank</a>
-   3.<a href='http://www.statistics.gov.lk/'>Department of census and Statistics</a>
+   3. <a href='http://www.statistics.gov.lk/'>Department of census and Statistics</a>
    4. <a href='https://en.wikipedia.org/wiki/Colombo#Outer_suburbs'>Outer Suburbs of Colombo</a>
    5. <a href='https://developers.arcgis.com/'>ArcGIS GeoCoding</a>
    6. <a href='https://developer.foursquare.com/'>Foursquare API for Developers</a>
